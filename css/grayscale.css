@@ -66,7 +66,9 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     /*text-transform: uppercase;*/
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000;
+    /*background-color: #000;*/
+    background-color: #009933;
+    /*green*/
     /*background-color: lime;*/
 }
 
@@ -81,7 +83,10 @@ a:focus {
 .navbar-custom .navbar-brand .navbar-toggle {
     padding: 4px 6px;
     font-size: 16px;
-    color: #fff;
+    /*color: #fff;*/
+    color: #ff0;
+    /*yellow*/
+
     /*color: #262626;*/
 }
 
@@ -139,8 +144,9 @@ a:focus {
     .navbar-custom.top-nav-collapse {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background: #000;
-        /*background: red;*/
+        /*background: #000;*/
+        background: #fff;
+        /*white*/
     }
 }
 
