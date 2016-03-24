@@ -139,10 +139,11 @@ a:focus {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
         background: #000;
+        background: red;
     }
 
     .navbar-custom a {
-    color: #fff;
+    /*color: #fff;*/
     /*color: black;*/
     }
 }
