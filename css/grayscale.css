@@ -64,12 +64,8 @@ a:focus {
 .navbar-custom {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
-    /*text-transform: uppercase;*/
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     background-color: #000;
-    /*background-color: #009933;*/
-    /*green*/
-    /*background-color: lime;*/
 }
 
 .navbar-custom .navbar-brand {
@@ -84,10 +80,6 @@ a:focus {
     padding: 4px 6px;
     font-size: 16px;
     color: #fff;
-    /*color: #ff0;*/
-    /*yellow*/
-
-    /*color: #262626;*/
 }
 
 .navbar-custom .navbar-brand .navbar-toggle:focus,
@@ -96,9 +88,7 @@ a:focus {
 }
 
 .navbar-custom a {
-    /*color: #fff;*/
     color: #000;
-    /*black*/
 }
 
 .navbar-custom .nav li a {
@@ -128,9 +118,7 @@ a:focus {
 }
 
 .navbar-custom .nav li.active a:hover {
-    /*color: #fff;*/
-    color: #003366;
-    /*dark blue*/
+    color: #fff;
 }
 
 @media(min-width:768px) {
@@ -148,9 +136,6 @@ a:focus {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
         background: #000;
-        /*black*/
-        /*background: #fff;*/
-        /*white*/
     }
 
     .navbar-custom.top-nav-collapse a {
