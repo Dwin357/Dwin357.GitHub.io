@@ -15,7 +15,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/grayscale.css" rel="stylesheet">
+    <link href="css/dwin-style.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -89,80 +89,92 @@
     <section id="about" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>Nice to meet you, I'm Edwin</h2>
-                <p>I have always seen a natural link between the internal logic and the definition of things, and throughout my life I have always strived to explore this connection.</p>
-                <p>By understanding how pieces fit together you see what is possible, while understanding the limit of something suggests what it is made of.</p>
-                <p>I love working out what app-logic is required to address a client's vision, and engaging with a team so that we function as more that the sum of our parts.</p>
-
-<!--                 Whether I am working on app-logic to address a problem defined by the client, engaging with a team so that we are more than the sum-of-our-parts, or developing an experience that resonates with the user's view of the world; I work to leverage my knowledge of this natural link to the benefit of an organization's existing feedback loop.</p>
-                <p>Technology wise I am most experienced with ruby and am currently experimenting with mean</p>
- -->
+                <h2>Full-Stack || Back-End Web Developer</h2>
+                <p>I have always seen a natural link between the internal logic and the definition of things. I strive to explore this connection.</p>
+                <p>By understanding how pieces fit together you see what is possible, while understanding the limits of something suggests what it is made of.</p>
+                <p>I love figuring out the app-logic required to address a client's vision, and engaging with a team so that we function as more that the sum of our parts.</p>
             </div>
         </div>
     </section>
 
     <!-- Project Section -->
-    <section id="project-title" class="content-section text-center">
-      <div class='project-title'>
-        <h1>Projects</h1>
+    <section id='projects' class='container content-section text-center'>
+      <div class='row text-vertical-center'>
+        <div class='col-lg-12 project-title'>
+          <h1>Projects</h1>
+        </div>
       </div>
-    </section>
-
-    <section id='projects' class='content-section text-center'>
-        <div class="projects-section">
-            <div class="container">
-                <div class="col-lg-6 col-lg-offset-3">
-                    <h2>Projects</h2>
-                    <div class='row'>
-                      <div class='col-lg-4'>
-                        <a href="" src=''>
-                        </a>
-                      </div>
-                      <div class='col-lg-4'>
-                        <a href="" src=''>
-                        </a>
-                      </div>
-                      <div class='col-lg-4'>
-                        <a href="" src=''>
-                        </a>
-                      </div>
-                    </div>
-                </div>
+      <div class='row'>
+        <div class="col-lg-10 col-lg-offset-1 projects-list">
+            <div class='row'>
+              <div class='col-lg-4 project-item'>
+                <h3>Maitre-DBC</h3>
+                <a href="http://maitre-dbc.herokuapp.com">
+                  <div class='img-project img-responsive maitre-dbc-img' src='img/maitre-dbc.png'></div>
+                </a>
+                <p>A group final project for DBC, built in 8 days.  My role was implementing Backbone models, rebuilding the D3 visual to use model data, getting data from D3 element to display on mouseover, setting up heroku, setting up sessions, and basic crud for guests.
+              </div>
+              <div class='col-lg-4 project-item'>
+                <h3>Egit Flight Planner</h3>
+                <a href="https://github.com/Dwin357/egitFlightPlanner">
+                  <div class='img-project img-responsive egit-flightplanner-img' src='img/egit-flightplanner.png'>
+                  </div>
+                </a>
+                <p>My first foray into Java, this program implements a Floyd-Warshall algorithm and recursive depth-first search of a tree data structure.  My next step for this is implementing a GUI interface</p>
+              </div>
+              <div class='col-lg-4 project-item'>
+                <h3>Dino Catalog</h3>
+                <a href="https://github.com/Dwin357/level_up_exercises/tree/master/dino_catalog">
+                  <div class='img-project img-responsive dino-catalog-img' src='img/dino-catalog-img'>
+                  </div>
+                  <p>Ongoing development exercises for Ruby developers: this program normalizes non-uniform CSV inputs, implements search of models by regular and irregular attributes, and implements chainable method calls for collections</p>
+                </a>
+              </div>
             </div>
         </div>
+      </div>
     </section>
 
     <!-- Contact Section -->
     <section id="contact" class="container content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Contact Start Bootstrap</h2>
-                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
-                <p><a href="mailto:feedback@startbootstrap.com">feedback@startbootstrap.com</a>
+            <div class="col-lg-12">
+                <h2>download my resume</h2>
+                <a href="img/resume.pdf" class='btn btn-lg btn-light'>PDF</a>
+                <a href="img/resume.docx" class='btn btn-lg btn-dark'>Word</a>
                 </p>
-                <ul class="list-inline banner-social-buttons">
-                    <li>
-                        <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                    </li>
-                    <li>
-                        <a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                    </li>
-                </ul>
             </div>
         </div>
     </section>
 
-    <!-- Map Section -->
-    <div id="map"></div>
-
     <!-- Footer -->
     <footer>
-        <div class="container text-center">
-            <p>Copyright &copy; Dwin357</p>
+      <div class="container text-center">
+        <div class='row'>
+          <div class='col-lg-10 col-lg-offset-1'>
+            <h4>let's chat</h4>
+            <span class='contact'>Chicago, IL<br>
+            Open to relocation, remote, & travel</span>
+            <ul class='list-unstyled'>
+              <li>
+                <i class='fa fa-envelope-o fa-fw'></i><a id='email' href='mailto:e.r.steinmetz@gmail.com'>E.R.Steinmetz@gmail.com</a>
+              </li>
+            </ul>
+            <br>
+            <ul class='list-inline'>
+              <li>
+                <a href='https://github.com/Dwin357'><i class='fa fa-github fa-fw fa-3x'></i></a>
+              </li>
+              <li>
+                <a hreft='https://www.linkedin.com/in/ersteinmetz'><i class='fa fa-linkedin-square fa-fw fa-3x'></i></a>
+              </li>
+            </ul>
+            <hr class='small'>
+            <span class='text-muted contact'>dwin.3..5...7....13.....17......23
+            </span>
+          </div>
         </div>
+      </div>
     </footer>
 
     <!-- jQuery -->
@@ -174,11 +186,8 @@
     <!-- Plugin JavaScript -->
     <script src="js/jquery.easing.min.js"></script>
 
-    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
-
     <!-- Custom Theme JavaScript -->
-    <script src="js/grayscale.js"></script>
+    <script src="js/dwin-js.js"></script>
 
 </body>
 
