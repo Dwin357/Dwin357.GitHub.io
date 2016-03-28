@@ -138,18 +138,18 @@ a:focus {
 }
 
 .intro {
-    display: table;
-    width: 100%;
-    height: auto;
-    padding: 100px 0;
-    text-align: center;
-    color: #fff;
-    background: url(../img/Desk-top.jpg) no-repeat bottom center scroll;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff;
+  background: url(../img/Desk-top.jpg) no-repeat bottom center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
 .intro .intro-body {
@@ -384,6 +384,8 @@ body {
 }
 */
 
+/*general*/
+
 html,
 body {
   width: 100%;
@@ -395,3 +397,28 @@ body {
   color: #fff;
   background-color: #000;
 }
+
+.text-vertical-center {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/*nav bar*/
+
+/*intro header */
+.brand-heading {
+
+}
+
+.intro-text {
+
+}
+
+/*about*/
+
+/*project*/
+
+/*contact*/
+
+/*footer*/
