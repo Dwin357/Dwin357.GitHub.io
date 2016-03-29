@@ -255,9 +255,9 @@ a:focus {
     }
 }
 
-/*.content-section {
+.content-section {
     padding-top: 50px;
-}*/
+}
 
 .project-title {
   background: url(../img/iit.jpg) no-repeat center center scroll;
