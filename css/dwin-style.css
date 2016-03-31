@@ -12,12 +12,14 @@ body {
   font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.content-section{
+  padding: 50px 0;
+}
+
 a:hover,
 a:focus {
   text-decoration: none;
-  /*color: #1d9b6c;*/
 }
-
 
 
 /*  nav bar  */
@@ -38,7 +40,11 @@ a:focus {
 }
 
 .navbar-kustom .navbar-brand {
-  font-weight: 700;
+  font-weight: 800;
+}
+
+.navbar-kustom .navbar-brand .light {
+  font-weight: 200;
 }
 
 .navbar-kustom .navbar-brand .navbar-toggle {
@@ -55,6 +61,19 @@ a:focus {
 
 .offset-navbar {
   margin-bottom:30px;
+}
+
+.btn-portfolio {
+  border-radius: 0;
+  color: #fff;
+  background-color: rgba(0,0,0,0.4);
+}
+
+.btn-portfolio:hover,
+.btn-portfolio:focus,
+.btn-portfolio:active {
+  color: #fff;
+  background-color: rgba(0,0,0,0.7);
 }
 
 
@@ -159,3 +178,6 @@ a:focus {
 }
 
 /*  contact  */
+footer {
+  padding: 200px 0;
+}
