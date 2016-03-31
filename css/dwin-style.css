@@ -15,38 +15,9 @@ body {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #1d9b6c;
+  /*color: #1d9b6c;*/
 }
 
-.light {
-  font-weight: 400;
-}
-
-.btn-dark {
-    border-radius: 0;
-    color: #fff;
-    background-color: rgba(0,0,0,0.4);
-}
-
-.btn-dark:hover,
-.btn-dark:focus,
-.btn-dark:active {
-    color: #fff;
-    background-color: rgba(0,0,0,0.7);
-}
-
-.btn-light {
-    border-radius: 0;
-    color: #333;
-    background-color: rgb(255,255,255);
-}
-
-.btn-light:hover,
-.btn-light:focus,
-.btn-light:active {
-    color: #333;
-    background-color: rgba(255,255,255,0.8);
-}
 
 
 /*  nav bar  */
@@ -130,7 +101,7 @@ a:focus {
 }
 
 
-/*  projects  */
+/*  project title  */
 .project-title {
   background: url(../img/iit.jpg) no-repeat center center scroll;
   width: 100%;
@@ -154,5 +125,37 @@ a:focus {
   display: inline-block;
 }
 
+
+/* project items */
+.project-item a:visited h3{
+  color: #551A8B;
+}
+
+.project-item a:hover h3{
+  color: #0000EE;
+}
+
+.img-project {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: auto;
+  height: 100px;
+}
+
+.img-project:hover {
+  opacity: 0.8;
+}
+
+.maitre-dbc-img{
+  background-image: url(../img/Maitre-DBC.png);
+}
+
+.egit-flightplanner-img{
+  background-image: url(../img/egitFlightPlanner.png);
+}
+
+.dino-catalog-img{
+  background-image: url(../img/dino_catalog.png);
+}
 
 /*  contact  */
