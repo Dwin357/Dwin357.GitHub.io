@@ -119,6 +119,11 @@ a:focus {
   margin-bottom:30px;
 }
 
+.escher .attribution {
+  font-size: smaller;
+  max-width: 200px;
+}
+
 
 /*  project title  */
 .project-title {
