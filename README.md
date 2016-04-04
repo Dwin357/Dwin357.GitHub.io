@@ -69,7 +69,7 @@ Sure.  Thank you for asking, this is a question I love to answer.  Calling back 
 
 >conclusion: to directly answer your question, the way I see my philosophy / methodology applying to technology is in leveraging the increased capacity for literal-ness in the thinking and communication of people who code to minimize the misalignment of definitions which limit the potential of organizations.
 
-on a more personal note, to my eyes software development today holds the same privileged place that building skyscrapers did at the turn of the last century.   Going back to what I said before about being a shy-extrovert, I want to work with people on common problems so that I can have some framework to socialize with them and at this functional level details of the problem are less important than the fact that it is shared.  ...but, given that the details of the problem are interchangeable, why would you want to work on anything other than a skyscraper!?!
+On a more personal note, to my eyes software development today holds the same privileged place that building skyscrapers did at the turn of the last century.   Going back to what I said before about being a shy-extrovert, I want to work with people on common problems so that I can have a framework to socialize, and at this functional level the details of the problem are less important than the fact that it is shared  ...but, given that the details are interchangeable, why would you want to work on anything other than a skyscraper!?!
 
 
 
