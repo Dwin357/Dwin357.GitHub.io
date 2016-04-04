@@ -47,7 +47,7 @@ It was a symbolic decision actually.  I figure, a name is the reduction of a per
 
 **_Q: And the '357' that normally follows, any significance there?_**
 
-Ya, that is my optimism poking out.  Intended as [3, 5, 7...], as in a sequence of ascending prime numbers; it is an assertion that in the course of development humans will inevitably discover irreducible ideas which will force the expansion of our perceptions despite all of the reductionist head-winds which might be encountered along the way.  Basically a "long-arc-of-the-moral-universe" argument against the reductionist point of view.
+Ya, that is my optimism poking out.  It is intended as [3, 5, 7...], as in a sequence of ascending prime numbers; it is an assertion that in the course of development humans will inevitably discover irreducible ideas which will force the expansion of our perceptions despite all of the reductionist head-winds which might be encountered along the way.  Basically a "long-arc-of-the-moral-universe" argument against the reductionist point of view.
 
 
 **_Q: You seem to be taking a very strong position on "reductionism", going so far as to set up an allusion to segregation and racism.  That seems a bit over blown._**
