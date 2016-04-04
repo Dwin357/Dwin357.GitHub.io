@@ -1,10 +1,11 @@
 #[Portfolio](http://dwin357.github.io/)
 
+---
 
 ### Dwin - After Dark
 ##### an informal interview by an anonymous questioner with the person known as Dwin 
 
-**Q: Thank you for agreeing to speak with us **
+**_Q: Thank you for agreeing to speak with us_**
 Oh it is no problem really.  You know how it is when you are "actively seeking opportunities", you have to make yourself available to the world.
 
 **Q: I take it by your answer job hunting is not something you enjoy? **
