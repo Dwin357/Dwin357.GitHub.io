@@ -2,8 +2,7 @@
 
 ---
 
-### Dwin - After Dark
-##### an informal interview by an anonymous questioner with the person known as Dwin 
+### an informal interview
 
 **_Q: Thank you for agreeing to speak with us_**
 
