@@ -7,6 +7,7 @@ describe("Game", function() {
     game = new Game();
   });
 
+
   describe ("initialize", function() {
 
     beforeEach(function() {
@@ -16,11 +17,6 @@ describe("Game", function() {
           result[result.length] = game.state[i];
         }
       }
-
-      valueTwoOrFour = function(input){
-        return (input == 4) || (input == 2)
-      };
-
     });
 
     it ("has a game 16 length game state", function(){
@@ -30,10 +26,10 @@ describe("Game", function() {
       expect(result.length).toEqual(2);
     });
     it ("populates first position with a 2 or 4", function(){
-      expect(valueTwoOrFour(result[0])).toBe(true);
+      expect(valueIsTwoOrFour(result[0])).toBe(true);
     });
     it ("populates second position with a 2 or 4", function(){
-      expect(valueTwoOrFour(result[1])).toBe(true);
+      expect(valueIsTwoOrFour(result[1])).toBe(true);
     });
   });
 
