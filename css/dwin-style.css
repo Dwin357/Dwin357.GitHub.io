@@ -134,7 +134,7 @@ a:focus {
 
   color: #000;
   text-align: center;
-  
+
   background-color: #000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -174,13 +174,22 @@ a:focus {
   background-image: url(../img/Maitre-DBC.png);
 }
 
-.cmm-tasks-img{
-  background-image: url(../img/cmm-tasks.png);
+.cmm_tasks-img{
+  background-image: url(../img/cmm_tasks-img.png);
 }
 
-.vending-machine-img{
-  background-image: url(../img/vending-machine-kata.png);
+.vending-machine-kata-img{
+  background-image: url(../img/vending-machine-kata-img.png);
 }
+
+.java-rover-img{
+  background-image: url(../img/java-rover-img.png);
+}
+
+.java-salesTaxCalculator-img{
+  background-image: url(../img/java-salesTaxCalculator-img.png);
+}
+
 
 /*  contact  */
 footer {
