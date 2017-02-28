@@ -190,6 +190,9 @@ a:focus {
   background-image: url(../img/java-salesTaxCalculator-img.png);
 }
 
+.jwt-auth-img {
+  background-image: url(../img/jwt-auth-img.png);
+}
 
 /*  contact  */
 footer {
