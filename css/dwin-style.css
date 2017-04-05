@@ -194,6 +194,10 @@ a:focus {
   background-image: url(../img/jwt-auth-img.png);
 }
 
+.tic-tac-toe-img {
+  background-image: url(../img/tic-tac-toe-img.png);
+}
+
 /*  contact  */
 footer {
   padding: 200px 0;
